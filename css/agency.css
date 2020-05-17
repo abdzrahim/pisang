@@ -692,3 +692,11 @@ ul.social-buttons li a {
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
   background-color: #fed136;
 }
+
+
+/*Added images CSS*/
+.mx-auto{
+  width: 400px;
+  height: 400px;
+  border: 7px solid #fff;
+}
